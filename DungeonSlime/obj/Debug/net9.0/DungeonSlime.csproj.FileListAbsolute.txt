@@ -31,3 +31,7 @@
 /run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/obj/Debug/net9.0/DungeonSlime.pdb
 /run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/obj/Debug/net9.0/DungeonSlime.genruntimeconfig.cache
 /run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/obj/Debug/net9.0/ref/DungeonSlime.dll
+/run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/obj/Debug/net9.0/DungeonSlime.sourcelink.json
+/run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/bin/Debug/net9.0/MonoGameLibrary.dll
+/run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/bin/Debug/net9.0/MonoGameLibrary.pdb
+/run/media/sandra/MicroSD/git/DungeonSlime/DungeonSlime/bin/Debug/net9.0/Content/images/logo.xnb
